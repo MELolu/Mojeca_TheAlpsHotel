@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TheAlpsHotel_Mojeca</string>
+    <string name="title_activity_booking_confirm_screen">BookingConfirmScreen</string>
+    <string name="title_activity_my_bookings_screen">MyBookingsScreen</string>
 </resources>

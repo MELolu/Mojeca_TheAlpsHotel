@@ -12,6 +12,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TheAlpsHotel_Mojeca">
         <activity
+            android:name=".MyBookingsScreen"
+            android:exported="false"
+            android:label="@string/title_activity_my_bookings_screen"
+            android:theme="@style/Theme.TheAlpsHotel_Mojeca" />
+        <activity
+            android:name=".BookingConfirmScreen"
+            android:exported="false"
+            android:label="@string/title_activity_booking_confirm_screen"
+            android:theme="@style/Theme.TheAlpsHotel_Mojeca" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
