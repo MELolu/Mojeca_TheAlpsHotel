@@ -96,7 +96,7 @@ class MainActivity : ComponentActivity() {
                         }
 
                         composable("my_bookings") {
-                //            MyBookingsScreen(navController = navController)
+                           MyBookingsScreen(navController = navController)
                         }
                     }
                 }
