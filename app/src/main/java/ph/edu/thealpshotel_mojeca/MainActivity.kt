@@ -339,7 +339,7 @@ fun ProfileScreen(navController: NavController) {
             Text("Developer", fontSize = 18.sp, color = Color.Gray)
             Spacer(modifier = Modifier.height(16.dp))
             Text(
-                text = "A developer who wants creating modern, functional, and visually appealing Android applications using Kotlin and Jetpack Compose.",
+                text = "I am germel Mojeca Studying BSIT course at Comteq and business College ",
                 fontSize = 16.sp,
                 color = Color.DarkGray,
                 lineHeight = 22.sp,
